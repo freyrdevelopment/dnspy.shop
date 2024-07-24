@@ -7,7 +7,7 @@ body {
 
 
 bg-text {
-  text-align: center;
+  
   background-color: rgb(0, 0, 0); /* Fallback color */
   background-color: rgba(0, 0, 0, 0.425); /* Black w/opacity/see-through */
   color: rgba(255, 255, 255, 0.836);
@@ -21,7 +21,7 @@ bg-text {
   z-index: 2;
   width: 20%;
   padding: 20px;
-
+  text-align: center;
 
 }
 
